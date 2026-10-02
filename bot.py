@@ -4,7 +4,7 @@ import asyncio
 from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 
-TOKEN = "8758292937:AAEVpSPX8AL2Ag1SxHjFN1Ek6kUFYZlFdzQ"
+TOKEN = "8758292937:AAGtppHwR78gRUgbE5cRHg-bAAfdgAL3128"
 FIRST_JOIN_LINK = "https://t.me/addlist/PepJQUTEoOQ4MzZk"
 EXNESS_LINK = "https://one.exnessonelink.com/a/acjk8zdf2t"
 VIP_CHANNEL_LINK = "https://t.me/+DcNTI-J8O-g1MjU0"
